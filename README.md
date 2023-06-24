@@ -1,5 +1,5 @@
 # ABC VPN - Flutter VPN With One-Page UI
-Free VPN Base on Flutter VPN. ABC VPN is Released in Google Play and Apple Store.
+ABC VPN is based on opensource Flutter VPN (IKev2), Released in Google Play and Apple Store.
 
 # Google Play
 
