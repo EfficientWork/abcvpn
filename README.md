@@ -1,5 +1,13 @@
 # ABC VPN - Flutter VPN With One-Page UI
-ABC VPN is based on opensource Flutter VPN (IKev2), Released in Google Play and Apple Store.
+ABC VPN is based on strongswan opensource Flutter VPN (IKev2), Released in Google Play and Apple Store. It is Free for Base Usage.
+
+If you want more traffic, invite new one to input you refer code 
+
+#### windows client 
+https://vpnjet-b54bc.web.app/download/abcvpn-windows-0.9.0.231207.zip  : size ~ 30MB
+
+#### linux client (depend on NetworkManager Strongswan plugins version 1.5.0+. such as ubuntu 22.04+ / debain 12+)  
+https://vpnjet-b54bc.web.app/download/abcvpn-linux-0.9.0.231207.tar.gz  : size ~ 30MB
 
 # Google Play
 
